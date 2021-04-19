@@ -1,0 +1,22 @@
+<ion-content [fullscreen]="true">
+
+  <ion-slides #slides pager="true" [options]="slideOpts">
+    <ion-slide 
+      [style.background-image]="'url(assets/imgs/screen1.png)'" 
+      class="topRight">
+      <ion-button fill="clear" color="light" (click)="goToLogin()">SKIP</ion-button>
+    </ion-slide>
+    <ion-slide 
+      [style.background-image]="'url(assets/imgs/screen2.png)'"
+      class="topRight">
+    <ion-button fill="clear" color="light" (click)="goToLogin()">SKIP</ion-button>
+    </ion-slide>
+    <ion-slide 
+      [style.background-image]="'url(assets/imgs/screen3.png)'">
+      <ion-button (click)="goToLogin()" shape="round" fill="outline" color="primary" class="transformButton">
+        <ion-text color="light">Let's Start</ion-text>
+      </ion-button>
+    </ion-slide>
+  </ion-slides>
+
+</ion-content>
