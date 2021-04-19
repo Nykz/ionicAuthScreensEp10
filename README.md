@@ -3,12 +3,19 @@ Food Delivery App | Grocery App - Onboarding Screens, Login &amp; Signup Screens
 
 ► Features:-
       Onboarding Screens with Animated slides in the background
+      
       Log In Screen
+      
       Sign Up Screen
+      
       With proper Form Validation & Error messages
+      
       Ionic Page Components
+      
       Ionic Service
+      
       Ionic Capacitor Storage Plugin
+      
       Ionic Guards.
 
 Watch the Full Episode on youtube at https://www.youtube.com/watch?v=Td46HaHVR0g&list=PLixvNT19uDK6Fk6glTj18ONQRpCAVnY0G&index=1&ab_channel=CodingTechnyks
