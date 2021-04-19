@@ -1,7 +1,8 @@
 # ionicAuthScreensEp10
 Food Delivery App | Grocery App - Onboarding Screens, Login &amp; Signup Screens (eg. Swiggy Clone, Zomato Clone)
 
-► Features:-
+### Features
+      
       Onboarding Screens with Animated slides in the background
       
       Log In Screen
