@@ -14,13 +14,13 @@ Food Delivery App | Grocery App - Onboarding Screens, Login &amp; Signup Screens
 Watch the Full Episode on youtube at https://www.youtube.com/watch?v=Td46HaHVR0g&list=PLixvNT19uDK6Fk6glTj18ONQRpCAVnY0G&index=1&ab_channel=CodingTechnyks
 
 ### Onboarding Screens
-<img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen1.png" width="200" height="400" />
-<img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen2.png" width="200" height="400" />
 <img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen3.png" width="200" height="400" />
-
-### Login & Signup Screens
 <img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen4.png" width="200" height="400" />
 <img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen5.png" width="200" height="400" />
+
+### Login & Signup Screens
+<img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen1.png" width="200" height="400" />
+<img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen2.png" width="200" height="400" />
 
 ### Steps to Setup this mouth-watering TRAVEL APP auth screens in your system
 
