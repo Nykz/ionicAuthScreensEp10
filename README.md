@@ -30,7 +30,7 @@ Watch the Full Episode on youtube at https://www.youtube.com/watch?v=Td46HaHVR0g
 <img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen1.png" width="200" height="400" />
 <img src="https://github.com/Nykz/ionicAuthScreensEp10/blob/main/screenshots/screen2.png" width="200" height="400" />
 
-### Steps to Setup this mouth-watering TRAVEL APP auth screens in your system
+### Steps to Setup this Food Delivery App or Grocery App in your system
 
 1.Download the zipped project
 
